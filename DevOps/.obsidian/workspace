@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "c30187fd9105fd02",
+    "type": "split",
+    "children": [
+      {
+        "id": "49c5d20b781900da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bash Script/bash_script_1_notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "274b5f0d6d29a886",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7a789352fad704c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b599923a77a6d5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "38092db2961e9ccc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4483b676e957b042",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97b5aa1ad2f9c8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa098ecd37e2e66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bash Script/bash_script_1_notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "49c5d20b781900da",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Git/Git_notes.md",
+    "Command Line/Command Line notes.md",
+    "Command Line/Codecademy cheatsheet.md",
+    "Command Line/Pasted image 20210430025412.png",
+    "Command Line/Pasted image 20210430025954.png",
+    "Command Line/Katacoda.md",
+    "Pasted image 20210430025412.png",
+    "Pasted image 20210430025321.png",
+    "Command Line/Untitled.md"
+  ]
+}
