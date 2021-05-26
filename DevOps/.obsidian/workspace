@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bash Script/bash_script_1_notes.md",
+            "file": "Python general.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204
   },
   "right": {
     "id": "4483b676e957b042",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash Script/bash_script_1_notes.md",
+                "file": "Python general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "49c5d20b781900da",
   "lastOpenFiles": [
+    "Python general.md",
+    "Python strings.md",
     "Untitled.md",
+    "Python notes.md",
+    "DPSM/DPSM_notes.md",
+    "Bash_Script/bash_script_2/bash_script_2 notes.md",
+    "Git/Doing more/Feedback.md",
+    "Git/Doing more/Notes.md",
     "Git/Git_notes.md",
-    "Command Line/Command Line notes.md",
-    "Command Line/Codecademy cheatsheet.md",
-    "Command Line/Pasted image 20210430025412.png",
-    "Command Line/Pasted image 20210430025954.png",
-    "Command Line/Katacoda.md",
-    "Pasted image 20210430025412.png",
-    "Pasted image 20210430025321.png",
-    "Command Line/Untitled.md"
+    "Git/Git cheatsheets.md"
   ]
 }
